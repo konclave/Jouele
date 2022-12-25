@@ -22,7 +22,7 @@
   "main": "dist/jouele.min.js",
   "style": "dist/jouele.min.css",
   "dependencies": {
-    "howler": "2.0.15"
+    "howler": "2.2.3"
   },
   "peerDependencies": {
     "jquery": "3.x"
